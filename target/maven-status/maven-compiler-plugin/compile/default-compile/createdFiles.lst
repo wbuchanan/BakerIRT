@@ -1,0 +1,12 @@
+org/paces/Stata/IRTBaker/MMLEItemParameters.class
+org/paces/Stata/IRTBaker/BakerDemos.class
+org/paces/Stata/IRTBaker/GRMItemParameters.class
+org/paces/Stata/IRTBaker/BayesModelItemParameters.class
+org/paces/Stata/IRTBaker/MLEPersonParameter.class
+org/paces/Stata/IRTBaker/MixedModels.class
+org/paces/Stata/IRTBaker/MMLERasch.class
+org/paces/Stata/IRTBaker/GibbsSampler.class
+org/paces/Stata/IRTBaker/JMLERasch.class
+org/paces/Stata/IRTBaker/MLENominalResponse.class
+org/paces/Stata/IRTBaker/MultipleGroups.class
+org/paces/Stata/IRTBaker/MLEItemParameters.class
